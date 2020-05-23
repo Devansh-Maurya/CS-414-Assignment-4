@@ -85,16 +85,13 @@ td {
     text-align: center;
 }
 
-.btn-centre {
-    text-align: center;
-}
-
 #home-buttons {
     text-align: center;
 }
 
 #syllabusButton, #textBooksButton {
     width: 500px;
+    text-align: center;
 }
 
 table {
@@ -121,7 +118,7 @@ th {
     color: black;
     height: 60px;
     text-decoration: none !important;
-    text-align: left !important;
+    text-align: center !important;
     font-style: italic !important;
 }
 
